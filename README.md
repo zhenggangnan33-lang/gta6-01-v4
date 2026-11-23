@@ -72,3 +72,5 @@ screenshots/           4 staged shots, 1280x720
 
 See `BUILD_NOTES.md` for the autopilot results per mission, the screenshot
 sizes and the deterministic-build check.
+
+v4 is a fresh build written from scratch in one recorded session: all eight missions autopilot-verified end to end, zero console errors.
